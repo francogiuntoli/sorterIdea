@@ -1,0 +1,15 @@
+.array-container{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    align-content: center;
+    height: 680px;
+}
+
+.array-bar{
+    width:2px;
+    background-color: lightgreen;
+    display: inline-block;
+    margin: 1px 1px;
+}
